@@ -1,6 +1,7 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Este es un pequeña app realizada con Nodejs y Sockets 
+la cual tiene como funcion dar los turnos a ventanillas o escritorios
 
 Recuerden que deben de reconstruir los módulos de node con el comando
 
